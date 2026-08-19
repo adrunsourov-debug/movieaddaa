@@ -8,11 +8,11 @@
   'use strict';
 
   window.GTC_WEBSITE_CONFIG = {
-    siteName: 'GoToCinema',
-    pageTitle: 'Go To Cinema - Watch Movies, TV Shows & Anime',
-    logoText: 'GOTO CINEMA',
+    siteName: 'MovieAddaa',
+    pageTitle: 'Movie Addaa - Watch Movies, TV Shows & Anime',
+    logoText: 'Movie Addaa',
     logoImagePosition: 2,
-    logoImageUrl: 'logo-icon.png',
+    logoImageUrl: '#',
     logoImageAlt: 'GoToCinema logo'
   };
 
